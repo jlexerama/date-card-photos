@@ -1,2 +1,2 @@
 # date-card-photos
-Date Cardsfor Photos
+Date Cards for Photos
